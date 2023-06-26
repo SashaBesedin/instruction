@@ -5,3 +5,9 @@
 Загружаем последнюю версию Git с сайта
 https://git-scm.com/downloads.
 Устанавливаем с настройками по умолчонию
+## Настройка Git
+При первой использовании Git нужно представиться. Для этого нужно выполнить в терминале две команды:
+```
+git config --global user.email "sasch.besedin2017@yandex.ru
+git config --global user.name "Aleksandr Besedin"
+```
